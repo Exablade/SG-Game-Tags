@@ -57,7 +57,7 @@ $("head").append(myCSS);
 
 
 /* Constant Variables */
-const linkCard = "http://www.steamcardexchange.net/index.php?inventorygame-appid-";
+const linkCard = "http://www.steamcardexchange.net/index.php?gamepage-appid-";
 const linkAchievement = "http://steamcommunity.com/stats/"; // 424280/achievements/";
 const linkBundle = "https://www.steamgifts.com/bundle-games/search?q=";
 const linkHidden = "https://www.steamgifts.com/account/settings/giveaways/filters/search?q=";
